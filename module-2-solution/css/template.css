@@ -66,6 +66,7 @@ h1 {
 		width: 100%;
 	}
 }
+
 @media (max-width: 767px) {	
 	.block1, .block2, .block3 {
 		width: 100%;
